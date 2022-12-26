@@ -1,2 +1,35 @@
 
 /* Your CSS Code here. */
+bg-pink{
+    background: #ee82ef;
+}
+.bg-light-blue{
+    background: #3fe0d0;
+}
+
+.bg-green{
+    background: #9acd32;
+}
+
+.bg-orange{
+    background: #fe6347;
+}
+
+.bg-teal{
+    background: teal;
+}
+.bg-light-pink{
+    background: #d7bfd7;
+}
+.row{
+    border: 5px solid rgb(255, 188, 188);
+    height: 250px;
+}
+.row > * {
+    border: 3px dotted black;
+}
+div.container-fluid{
+    width: 750px;
+    border: 5px solid rgb(4, 255, 4);
+    background-color: black;
+}
